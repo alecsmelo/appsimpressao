@@ -299,7 +299,8 @@ class JANCadastra:
 
 
 
-     
+ 
+
 #Finalizando Tudo e Chamando o MainLoop       
 def Principal():
     root = tk.Tk()
