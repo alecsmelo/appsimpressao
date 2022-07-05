@@ -12,7 +12,7 @@ Data: 20/06/2022 - 21:39
 Build: 025
 Codename: PítonAmarela
 
-Não proíbo o uso do aplicativo, contudo copiar parte ou a tatolidade desse código compõe crime de plágio
+Não proíbo o uso do aplicativo, contudo copiar parte ou a totalidade desse código compõe crime de plágio
 """
 
 
