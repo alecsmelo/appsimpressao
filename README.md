@@ -11,8 +11,8 @@ Nessa versão final 0.2.5
 
 - Utilizo Sqlite3 para python por facilidade de portabilidade
 - Preferir pelo uso do Tkinter por ser um biblioteca nativa do python
-- O app será distribuído entre as filias nas forma de *.exe
-- Utilizei o CxFreeze para compilar e gerar os pacotes de intação e executáveis no windows
-- Nas estações que usam linux farei eu mesmo a instalação por questões de lógica não há masi que duas estações linux na empresa
+- O app será distribuído entre as filias na forma de *.exe
+- Utilizei o CxFreeze para compilar e gerar os pacotes de intalação e executáveis no windows
+- Nas estações que usam linux farei eu mesmo a instalação, por questões de lógica não há mais que duas estações linux na empresa
 
 
