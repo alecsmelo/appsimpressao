@@ -28,7 +28,7 @@ a campo para coletas de medidas
       <td>Descrição</td>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="left">
     <tr>
       <td>Banco de Dados</td>
       <td>Utilizo Sqlite3 para python por facilidade de portabilidade</td>
@@ -53,6 +53,11 @@ a campo para coletas de medidas
     
 </table>
 
+----
+
+### ✨Informações
+
+> [!NOTE]
 > O Aplicativo está nomeado e recebe logo da empresa para o qual foi desenvolvido, 
 > o ideal é não utilizar a versão compilada do mesmo, altera o que for necessário e
 > recompile com seus dados, o mesmo vale para o banco de dados, o próprio script
