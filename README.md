@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Python--3.12-blue?style=for-the-badge">
 </div>
 
-### ✨Repositórios para app criados para a empresas de comunicação visual ou outdoor
+### ✨Sobre o aplicativo
 
 O App TabuletasExiba foi desenvolvido para me auxiliar na empresa que trabalho, o intuido era cadastrar 
 todas as medidas de Tabuletas (Placas Outdoor) nas praças (Cidade ondem são exibidas), a funcionalidade
