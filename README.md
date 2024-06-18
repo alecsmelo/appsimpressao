@@ -1,8 +1,8 @@
 # Controle de Tabuletas Outdoor
 
 <div class="tecnologias" style="display: inline;"></br>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Tkinter-Interface-gray?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/TKinter-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Python--3.12-blue?style=for-the-badge">
 </div>
 
@@ -16,8 +16,10 @@ a campo para coletas de medidas
 
 ----
 
-![static-badge](https://img.shields.io/badge/Versão--0.25-blue?style=for-the-badge)
-![static-badge](https://img.shields.io/badge/Estável-blue?style=for-the-badge)
+![version](https://img.shields.io/badge/Versão%200.25-Estável-blue.svg)
+![status](https://img.shields.io/badge/Status-Updating-green.svg)
+![rc](https://img.shields.io/badge/Release%20Candidate-0.30-red.svg)
+
 
 ----
 
