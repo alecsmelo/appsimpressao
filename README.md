@@ -21,12 +21,45 @@ a campo para coletas de medidas
 
 ----
 
-| Nota            |  Descrição
-|:---------------:|:-------------------------------------------------------------------------------------------------------------:|
-|  Banco de Dados |  Utilizo Sqlite3 para python por facilidade de portabilidade                                                  |
-|    Interface    |  Preferir pelo uso do Tkinter por ser um biblioteca nativa do python                                          |
-| Aplicativo      |  O app será distribuído entre as filias na forma de *.exe                                                     |
-|  Compilador     | Utilizei o CxFreeze para compilar e gerar os pacotes de intalação e executáveis no windows                    |
-| Versão Linux    | Nas estações que usam linux farei eu mesmo a instalação, por questões de lógica não há mais que duas estações linux na empresa  |
+<table>
+  <thead align="left">
+    <tr>
+      <td>Nota</td>
+      <td>Descrição</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Banco de Dados</td>
+      <td>Utilizo Sqlite3 para python por facilidade de portabilidade</td>
+    </tr>
+    <tr>
+      <td>Interface</td>
+      <td>Preferir pelo uso do Tkinter por ser um biblioteca nativa do python</td>
+    </tr>
+    <tr>
+      <td>Aplicativo</td>
+      <td>O app será distribuído entre as filias na forma de *.exe</td>
+    </tr>
+    <tr>
+      <td>Compilador</td>
+      <td>Utilizei o CxFreeze para compilar e gerar os pacotes de intalação e executáveis no windows</td>
+    </tr>
+    <tr>
+      <td>Versão Linux</td>
+      <td>Nas estações linux a aplicativo vai rodar de forma interpretado, uma vez que já existe a instalação do python</td>
+    </tr>
+  </tbody>
+    
+</table>
+
+> O Aplicativo está nomeado e recebe logo da empresa para o qual foi desenvolvido, 
+> o ideal é não utilizar a versão compilada do mesmo, altera o que for necessário e
+> recompile com seus dados, o mesmo vale para o banco de dados, o próprio script
+> cria um novo banco de dados na ausência do arquivo, delete e roda a aplicação para
+> obter um banco de dados vazio.
+
+
+
 
 
